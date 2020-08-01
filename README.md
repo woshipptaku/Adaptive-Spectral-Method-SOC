@@ -1,1 +1,2 @@
-# Adaptive-Spectral-Method-SOC
+# Self-adaptive-Spectral-Method-Integration
+## Introduction and Motivation
